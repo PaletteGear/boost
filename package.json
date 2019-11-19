@@ -1,6 +1,6 @@
 {
   "name": "@palettegear/boost",
-  "version": "1.69.0",
+  "version": "1.71.0",
   "description": "Redistribution of the Boost C++ Library for use in native Node.js modules",
   "main": "index.js",
   "directories": {
@@ -21,8 +21,8 @@
   "author": "PaletteGear <developer@palettegear.com>",
   "license": "SEE LICENSE IN LICENSE_1_0.txt",
   "boost": {
-    "tarball": "https://dl.bintray.com/boostorg/release/1.69.0/source/boost_1_69_0.tar.gz",
-    "sha256": "9a2c2819310839ea373f42d69e733c339b4e9a19deab6bfec448281554aa4dbb",
+    "tarball": "https://dl.bintray.com/boostorg/release/1.71.0/source/boost_1_71_0.tar.gz",
+    "sha256": "96b34f7468f26a141f6020efb813f1a2f3dfb9797ecf76a7d7cbd843cc95f5bd",
     "license": "LICENSE_1_0.txt"
   }
 }
